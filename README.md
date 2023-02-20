@@ -1,4 +1,4 @@
-#Tarefa 3.1
+# Tarefa 3.1
 
 Esta tarefa consiste seguir a estruturação do caso prático apresentado no livro recomendado, Animalec. Tendo este um maior detalhe relativo à Página Principal do Web site (Capítulo A.2), o foco da tarefa está na Página de Administração/ Back-office (Capitulo A.3) que tem um acesso através de password, permitindo gerir toda a informação das três entidades propostas: animais, utilizadores, quizzes e questões. Para esta tarefa vamos acrescentar mais duas entidades: patrocinadores que se identificam com os animais (sponsor) e os especialistas científicos da espécie/família de animais (expert).
 
